@@ -1,0 +1,72 @@
+﻿  BioshockScene.cpp
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(206,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(272,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(338,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(404,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(470,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(536,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(602,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(668,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(734,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(799,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(865,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(931,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(997,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1063,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1129,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1195,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1260,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1326,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1392,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1458,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1523,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1588,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1654,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1720,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1786,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1853,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1919,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(1985,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2051,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2116,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2181,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2246,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2311,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2376,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2441,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2506,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2571,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2636,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2701,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2766,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2941,37): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2970,48): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2988,19): warning C4244:  '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3030,18): warning C4244:  '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3079,19): warning C4244:  '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3327,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3331,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3357,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3373,21): warning C4244:  '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(2960,10): warning C4101:  'swordSensor': unreferenced local variable
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3812,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3817,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3822,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3827,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3833,23): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3841,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3846,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3851,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3856,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3861,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3869,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3875,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3880,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3885,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3890,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3895,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3901,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3907,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3912,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andy\Desktop\FOTD 2.0\HelloWorld\BioshockScene.cpp(3917,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+  HelloWorld.vcxproj -> C:\Users\Andy\Desktop\FOTD 2.0\x64\Debug\HelloWorld.exe
